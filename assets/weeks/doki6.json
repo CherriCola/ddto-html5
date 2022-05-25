@@ -1,0 +1,86 @@
+{
+	"songs": [
+		[
+			"your-reality",
+			"monika",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"opnt",
+			"duet",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"poems-n-thorns",
+			"duet",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"pnt-bm",
+			"duet",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dreams-of-roses",
+			"duet",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dual-demise",
+			"monika-angry2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"epiphany",
+			"just",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

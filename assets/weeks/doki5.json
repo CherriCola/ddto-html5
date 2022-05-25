@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"crucify-(yuri-mix)",
+			"yuri",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"beathoven-(natsuki-mix)",
+			"natsuki",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"its-complicated-(sayori-mix)",
+			"sayori-ddlc",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"glitcher-(monika-mix)",
+			"monika-real",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

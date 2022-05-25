@@ -1,0 +1,17 @@
+function onCreate()
+  makeLuaSprite('bg','weebSky',-200,0)
+  setScrollFactor('bg',0,1)
+  scaleObject('bg',7,7)
+  makeLuaSprite('bg2','weebSchool',-250,0)
+  setScrollFactor('bg2',0,1)
+  scaleObject('bg2',7,7)
+  makeLuaSprite('street','weebStreet',-200,100)
+  makeLuaSprite('trees','weebTrees',-250, 0)
+  scaleObject('trees',6.4,6.4)
+  scaleObject('street',6.5,6)
+  addLuaSprite('bg',false)
+  addLuaSprite('bg2',false)
+  addLuaSprite('street',false)
+  addLuaSprite('trees',false)
+  close(true);
+  end

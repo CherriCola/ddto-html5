@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				160
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yuri Crazy Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				157
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Yuri Crazy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				170
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Yuri Crazy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				219
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Yuri Crazy Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				121
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Yuri Crazy Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yuri-crazy",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "icon-Yuri-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		35,
+		175
+	],
+	"camera_position": [
+		140,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

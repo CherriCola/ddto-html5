@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "Stage",
+		"player1": "bf-doki",
+		"player2": "yuri",
+		"player3": null,
+		"events": [
+			[
+				71832.4779118746,
+				[
+					[
+						"Change Character",
+						"dad",
+						"yuri-crazy"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Obsession"
+	}
+}

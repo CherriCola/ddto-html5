@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "Stage",
+		"player1": "bf-doki",
+		"player2": "sayori-ddlc",
+		"player3": null,
+		"events": [
+			[
+				66352.9411764705,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"sayori-ddlc"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "My-Confession"
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"rain-clouds",
+			"sayori-ddlc",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"my-confession",
+			"sayori-ddlc",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"my-sweets",
+			"natsuki",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"baka",
+			"natsuki",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

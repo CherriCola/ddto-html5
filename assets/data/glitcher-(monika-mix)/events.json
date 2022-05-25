@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "Stage",
+		"player1": "bf-doki",
+		"player2": "monika-real",
+		"player3": null,
+		"events": [
+			[
+				49317.8571428572,
+				[
+					[
+						"Play Animation",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				49328.5714285714,
+				[
+					[
+						"Change Character",
+						"1",
+						"monika"
+					]
+				]
+			],
+			[
+				49339.2857142857,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel"
+					]
+				]
+			],
+			[
+				49350,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-doki"
+					]
+				]
+			],
+			[
+				71260.7142857143,
+				[
+					[
+						"Play Animation",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				71271.4285714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"monika-real"
+					]
+				]
+			],
+			[
+				71282.1428571429,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-doki"
+					]
+				]
+			],
+			[
+				71292.8571428571,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-realdoki"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Glitcher (Monika Mix)"
+	}
+}
