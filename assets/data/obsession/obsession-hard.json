@@ -7,26 +7,69 @@
 				"lengthInSteps": 16,
 				"sectionNotes": [],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
 				"sectionNotes": [],
 				"altAnim": false,
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
 				"sectionNotes": [],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
 				"sectionNotes": [],
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -34,42 +77,80 @@
 					[
 						8750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						9250,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						9000,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						9500,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						9750,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						8000,
 						2,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						8375,
 						0,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -77,42 +158,80 @@
 					[
 						10750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						11250,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						11000,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						11500,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						11750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						10000,
 						2,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						10375,
 						3,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -120,42 +239,80 @@
 					[
 						12750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						13000,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						13250,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						13500,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						13750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						12000,
 						2,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						12375,
 						1,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -163,53 +320,114 @@
 					[
 						15000,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						15500,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						15750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						14750,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						15250,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						14000,
 						3,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						14375,
 						0,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
 				"sectionNotes": [],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
 				"sectionNotes": [],
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -217,31 +435,62 @@
 					[
 						20000,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						20375,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						20750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						21125,
 						1,
-						525
+						525,
+						"",
+						[
+							0
+						]
 					],
 					[
 						21750,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -249,26 +498,53 @@
 					[
 						22375,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						22750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						23125,
 						2,
-						750
+						750,
+						"",
+						[
+							0
+						]
 					],
 					[
 						22000,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -276,61 +552,116 @@
 					[
 						24000,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						24375,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						24750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						25000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						25125,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						25250,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						25375,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						25500,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						25625,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						25750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						25875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -338,31 +669,62 @@
 					[
 						27500,
 						1,
-						375
+						375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						26000,
 						2,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						26375,
 						0,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						26750,
 						1,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						27125,
 						0,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -370,36 +732,71 @@
 					[
 						28000,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						29125,
 						3,
-						525
+						525,
+						"",
+						[
+							0
+						]
 					],
 					[
 						28375,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						28750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						29750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						28000,
 						7,
-						375
+						375,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -407,26 +804,53 @@
 					[
 						30375,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						31125,
 						2,
-						750
+						750,
+						"",
+						[
+							0
+						]
 					],
 					[
 						30000,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						30750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -434,62 +858,116 @@
 					[
 						33625,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						32000,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						32375,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						32750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						33000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						33250,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						33125,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						33375,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						33500,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						33750,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						33875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -497,32 +975,62 @@
 					[
 						35500,
 						1,
-						375
+						375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						34000,
 						2,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						34375,
 						3,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						34750,
 						0,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						35125,
 						3,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -530,57 +1038,107 @@
 					[
 						36000,
 						6,
-						375
+						375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						36000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						37000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						37250,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						37500,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						37750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						36250,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						36375,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						36500,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						36750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -588,52 +1146,98 @@
 					[
 						38000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						39000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						39250,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						39500,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						39750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						38250,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						38375,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						38500,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						38750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -641,57 +1245,107 @@
 					[
 						40000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						40125,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						40250,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						40375,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						40500,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						40750,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						41000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						41250,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						41500,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						41750,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -699,57 +1353,107 @@
 					[
 						42000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						42125,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						42250,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						42375,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						42500,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						42750,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						43000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						43250,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						43500,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						43750,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -757,27 +1461,53 @@
 					[
 						44000,
 						2,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						44000,
 						6,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						45000,
 						1,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						45000,
 						5,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -785,26 +1515,53 @@
 					[
 						46000,
 						0,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						46000,
 						7,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						47000,
 						3,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						47000,
 						4,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -812,26 +1569,53 @@
 					[
 						48000,
 						0,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						48000,
 						7,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						49000,
 						1,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						49000,
 						5,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -839,26 +1623,53 @@
 					[
 						51000,
 						2,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						51000,
 						6,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						50000,
 						4,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					],
 					[
 						50000,
 						0,
-						875
+						875,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": true,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -866,106 +1677,197 @@
 					[
 						52000,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52125,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52375,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52500,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52750,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						53000,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						53250,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						53875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52000,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52375,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52500,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52125,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52250,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52250,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						52750,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						53000,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						53250,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						53875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						53500,
 						1,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					],
 					[
 						53500,
 						5,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"mustHitSection": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -973,87 +1875,161 @@
 					[
 						54000,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						54000,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						54280,
 						3,
-						420
+						420,
+						"",
+						[
+							0
+						]
 					],
 					[
 						54280,
 						4,
-						420
+						420,
+						"",
+						[
+							0
+						]
 					],
 					[
 						54746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						55261,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						55822,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						55542,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						54774,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						54981,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						54981,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						55261,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						55542,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						55822,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						56102.8037383178,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						56102.8037383178,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"changeBPM": true,
 				"bpm": 107,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -1061,67 +2037,98 @@
 					[
 						56610.6377130291,
 						6,
-						147.058823529412
+						147.058823529412,
+						"",
+						[
+							0
+						]
 					],
 					[
 						57176.8141836174,
 						4,
-						147.058823529412
+						147.058823529412,
+						"",
+						[
+							0
+						]
 					],
 					[
 						57713.5788894997,
 						7,
-						147.058823529412
+						147.058823529412,
+						"",
+						[
+							0
+						]
 					],
 					[
 						56625.3435953821,
 						2,
-						147.058823529412
+						147.058823529412,
+						"",
+						[
+							0
+						]
 					],
 					[
 						57169.4612424409,
 						3,
-						147.058823529412
+						147.058823529412,
+						"",
+						[
+							0
+						]
 					],
 					[
 						58217.255360088,
 						3,
-						765.30612244898
+						765.30612244898,
+						"",
+						[
+							0
+						]
 					],
 					[
 						58220.9318306762,
 						4,
-						735.294117647059
+						735.294117647059,
+						"",
+						[
+							0
+						]
 					],
 					[
-						56242.9906542056,
-						4,
+						57713.578889499724,
 						0,
-						"Hurt Note"
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
-						57713.5788894997,
+						57860.63771302914,
 						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						57860.6377130291,
-						0,
-						147.058823529412,
-						"Hurt Note"
-					],
-					[
-						58154.755360088,
-						6,
-						0,
-						"Hurt Note"
+						147.05882352941177,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"bpm": 102,
 				"changeBPM": true,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -1129,30 +2136,53 @@
 					[
 						59361.2379531252,
 						6,
-						918.367346938776
+						918.367346938776,
+						"",
+						[
+							0
+						]
 					],
 					[
 						59361.2379531252,
 						2,
-						918.367346938776
+						918.367346938776,
+						"",
+						[
+							0
+						]
 					],
 					[
-						60432.6665245537,
+						60432.666524553744,
 						3,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
-						60738.7889735333,
+						60738.78897353334,
 						3,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"mustHitSection": false,
 				"bpm": 98,
-				"changeBPM": true
+				"changeBPM": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -1160,56 +2190,98 @@
 					[
 						61364.0603586831,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						61938.5284437895,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						62512.9965288959,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						62217.7837629385,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						61639.32631613,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
-						61044.9114225129,
+						61044.91142251293,
 						3,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
 						62800.2305714491,
 						3,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
-						63119.3795076193,
+						63119.37950761931,
 						3,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
-						63438.5284437895,
+						63438.528443789524,
 						1,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"changeBPM": true,
 				"mustHitSection": false,
-				"bpm": 94
+				"bpm": 94,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -1217,66 +2289,109 @@
 					[
 						64048.1029118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						64360.6029118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						63714.7695785413,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
-						64598.1029118746,
+						64598.10291187463,
 						1,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
-						64931.436245208,
+						64931.436245207966,
 						1,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
-						65264.7695785413,
+						65264.769578541294,
 						0,
 						500,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
-						65931.436245208,
+						65931.43624520797,
 						2,
-						333.333333333333,
-						"Hurt Note"
+						333.3333333333333,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"changeBPM": true,
 				"mustHitSection": false,
-				"bpm": 90
+				"bpm": 90,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
-						66598.1029118746,
+						66598.10291187462,
 						0,
-						333.333333333333,
-						"Hurt Note"
+						333.3333333333333,
+						"",
+						[
+							0
+						]
 					],
 					[
-						67098.1029118746,
+						67098.10291187462,
 						2,
 						500,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
 						67764.7695785413,
 						1,
-						1000,
-						"Hurt Note"
+						999.9999999999999,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -1284,15 +2399,27 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": true,
-				"bpm": 90
+				"bpm": 90,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
-						69098.1029118746,
+						69098.10291187464,
 						3,
-						1000,
-						"Hurt Note"
+						999.9999999999999,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -1300,7 +2427,16 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": true,
-				"bpm": 90
+				"bpm": 90,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -1309,7 +2445,16 @@
 				"altAnim": false,
 				"bpm": 64,
 				"changeBPM": true,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -1318,33 +2463,62 @@
 					[
 						77926.2279118746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						78629.3529118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						78160.6029118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						78394.9779118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						78863.7279118746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"bpm": 64,
 				"changeBPM": false,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -1353,93 +2527,170 @@
 					[
 						79098.1029118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						79332.4779118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						79566.8529118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						79801.2279118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						80035.6029118746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						80269.9779118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						80504.3529118746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						80738.7279118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						80973.1029118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						81207.4779118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						81676.2279118746,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						81910.6029118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						82144.9779118746,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						82379.3529118746,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						82613.7279118746,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						81441.8529118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						81676.2279118746,
 						3,
-						250
+						250,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -1448,165 +2699,298 @@
 					[
 						82848.1029118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						83082.4779118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						83316.8529118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						83551.2279118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						83785.6029118746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						84019.9779118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						84254.3529118746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						84488.7279118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						84723.1029118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						84957.4779118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						85191.8529118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						85894.9779118746,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						85426.2279118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						85660.6029118746,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						86129.3529118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						86363.7279118746,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						85426.2279118746,
 						1,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						86598.1029118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						87066.8529118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						86832.4779118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						87301.2279118746,
 						2,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						87769.9779118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						88004.3529118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						88238.7279118746,
 						1,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						88707.4779118746,
 						3,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						89176.2279118746,
 						0,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						89176.2279118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						89410.6029118746,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						89644.9779118746,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						89879.3529118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						90113.7279118746,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -1614,79 +2998,144 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						90348.1029118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						90816.8529118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						90582.4779118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						91051.2279118746,
 						2,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						91519.9779118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						91754.3529118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						91988.7279118746,
 						1,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						92457.4779118746,
 						3,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						92926.2279118746,
 						2,
-						703.125
+						703.125,
+						"",
+						[
+							0
+						]
 					],
 					[
 						92926.2279118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						93037.5560368746,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						93160.6029118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						93512.1654118746,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						93863.7279118746,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -1694,120 +3143,207 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						94098.1029118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						94332.4779118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						94566.8529118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						94801.2279118746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						94912.5560368746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						95035.6029118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						95269.9779118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						95381.3060368746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						95504.3529118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						95633.2591618746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						95738.7279118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						95844.1966618746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						95973.1029118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						96084.4310368746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						96207.4779118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						96441.8529118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						96676.2279118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						96793.4154118746,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						96910.6029118746,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						97256.3060368746,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						97613.7279118746,
 						7,
-						0
-					],
-					[
-						94566.8529118746,
-						1,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -1815,146 +3351,243 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						97848.1029118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						98082.4779118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						98316.8529118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						98551.2279118746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						98662.5560368746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						98785.6029118746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99019.9779118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99131.3060368746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99254.3529118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99383.2591618746,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99488.7279118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99594.1966618746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99723.1029118746,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99834.4310368746,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						99957.4779118746,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						100191.852911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						100426.227911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						100549.274786875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						100771.931036875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						101006.306036875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						101129.352911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						101240.681036875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						100660.602911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						101363.727911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						100894.977911875,
 						6,
-						0
-					],
-					[
-						98316.8529118746,
-						1,
 						0,
-						"Hurt Note"
-					],
-					[
-						100660.602911875,
-						2,
-						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -1962,111 +3595,198 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						101598.102911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						101832.477911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						102066.852911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						102301.227911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						102412.556036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						103004.352911875,
 						2,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						103473.102911875,
 						0,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						102535.602911875,
 						3,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						103941.852911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						104176.227911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						104410.602911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						104644.977911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						104762.165411875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						104879.352911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						104996.540411875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						105113.727911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						104533.649786875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						104287.556036875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
-						103004.352911875,
+						103004.35291187464,
 						0,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					],
 					[
-						103941.852911875,
+						103941.85291187464,
 						1,
 						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -2074,126 +3794,207 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						105348.102911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						105582.477911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						105816.852911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						106051.227911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						106162.556036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						106754.352911875,
 						2,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						107223.102911875,
 						0,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						106285.602911875,
 						3,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						107691.852911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						107926.227911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108049.274786875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108160.602911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108266.071661875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108394.977911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108512.165411875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108629.352911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108734.821661875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108863.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108980.915411875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						107926.227911875,
 						4,
-						468.75
+						468.75,
+						"",
+						[
+							0
+						]
 					],
 					[
 						108629.352911875,
 						7,
-						468.75
-					],
-					[
-						106754.352911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						107223.102911875,
-						3,
-						0,
-						"Hurt Note"
+						468.75,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -2201,201 +4002,342 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						109098.102911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109209.431036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109443.806036875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109566.852911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109678.181036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109801.227911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109912.556036875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110035.602911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110152.790411875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110269.977911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110375.446661875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110504.352911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110609.821661875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110738.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110844.196661875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110973.102911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111072.712286875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111207.477911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111336.384161875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111441.852911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111676.227911875,
 						0,
-						468.75
+						468.75,
+						"",
+						[
+							0
+						]
 					],
 					[
 						112379.352911875,
 						2,
-						468.75
+						468.75,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109332.477911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109332.477911875,
 						6,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						109801.227911875,
 						7,
-						468.75
+						468.75,
+						"",
+						[
+							0
+						]
 					],
 					[
 						110504.352911875,
 						4,
-						468.75
+						468.75,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111207.477911875,
 						6,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111676.227911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111805.134161875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						111910.602911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						112021.931036875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						112144.977911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						112256.306036875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						112379.352911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						112496.540411875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						112613.727911875,
 						4,
-						0
-					],
-					[
-						110973.102911875,
-						1,
 						0,
-						"Hurt Note"
-					],
-					[
-						111676.227911875,
-						2,
-						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -2403,7 +4345,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -2412,237 +4363,386 @@
 					[
 						112848.102911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						112959.431036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113082.477911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113193.806036875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113316.852911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113428.181036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113551.227911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113662.556036875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113785.602911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114019.977911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114125.446661875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114254.352911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114359.821661875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114488.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114594.196661875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114723.102911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114822.712286875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114957.477911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115086.384161875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115191.852911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113082.477911875,
 						7,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113551.227911875,
 						4,
-						468.75
+						468.75,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114254.352911875,
 						5,
-						468.75
+						468.75,
+						"",
+						[
+							0
+						]
 					],
 					[
 						114957.477911875,
 						7,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115426.227911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115660.602911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115894.977911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116129.352911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115426.227911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115537.556036875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115660.602911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115771.931036875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						115894.977911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116129.352911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116246.540411875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116012.165411875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116475.056036875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116363.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116363.727911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113879.352911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						113908.649786875,
 						0,
-						0
-					],
-					[
-						113551.227911875,
-						5,
 						0,
-						"Hurt Note"
-					],
-					[
-						114723.102911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						115191.852911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						115894.977911875,
-						5,
-						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -2651,505 +4751,811 @@
 					[
 						116598.102911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116697.712286875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116832.477911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117066.852911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117172.321661875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117301.227911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117412.556036875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117535.602911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117641.071661875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117887.165411875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118121.540411875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118344.196661875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118473.102911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118584.431036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118707.477911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118795.368536875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119064.899786875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119644.977911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119879.352911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116598.102911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116832.477911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117066.852911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117301.227911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117535.602911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117769.977911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118004.352911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118238.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						117769.977911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118004.352911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118238.727911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118473.102911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118707.477911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118941.852911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						118941.852911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119176.227911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119176.227911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119410.602911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119410.602911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119516.071661875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119299.274786875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119644.977911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119750.446661875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119879.352911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						119984.821661875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120113.727911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120113.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						116961.384161875,
 						1,
-						0
-					],
-					[
-						117066.852911875,
-						2,
 						0,
-						"Hurt Note"
-					],
-					[
-						117301.227911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						119410.602911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						119410.602911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						120113.727911875,
-						0,
-						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						120348.102911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120447.712286875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120582.477911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120693.806036875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120816.852911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120816.852911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120922.321661875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121162.556036875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121391.071661875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121637.165411875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121871.540411875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122094.196661875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122223.102911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122334.431036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122457.477911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122545.368536875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122814.899786875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121519.977911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121988.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121051.227911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121285.602911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121754.352911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120348.102911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120582.477911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						120816.852911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121051.227911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121285.602911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121519.977911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121754.352911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121988.727911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122223.102911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122457.477911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122691.852911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						122691.852911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						123160.602911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						123271.931036875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						123394.977911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						123629.352911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						123980.915411875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						123863.727911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						121051.227911875,
 						4,
 						0,
-						"Hey!"
-					],
-					[
-						120816.852911875,
-						2,
-						0,
-						"Hurt Note"
-					],
-					[
-						121988.727911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						122691.852911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						122926.227911875,
-						0,
-						0,
-						"Hurt Note"
+						"Hey!",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -3157,7 +5563,16 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -3166,421 +5581,424 @@
 					[
 						124221.149786875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						124098.102911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						124332.477911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						124566.852911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						124801.227911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						125269.977911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						125504.352911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						125738.727911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						125269.977911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						125504.352911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						125738.727911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						126207.477911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						126441.852911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						126676.227911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						126207.477911875,
 						2,
-						0
-					],
-					[
-						126441.852911875,
-						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						126676.227911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						127144.977911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						127379.352911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						127016.071661875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						127730.915411875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						127613.727911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
-						124801.227911875,
-						3,
-						0,
-						"Hurt Note"
-					],
-					[
-						125269.977911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						125504.352911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						125738.727911875,
+						126441.85291187464,
 						2,
 						0,
-						"Hurt Note"
-					],
-					[
-						125269.977911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						125504.352911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						125738.727911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						126207.477911875,
-						4,
-						0,
-						"Hurt Note"
-					],
-					[
-						126207.477911875,
-						3,
-						0,
-						"Hurt Note"
-					],
-					[
-						126441.852911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						126676.227911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						126441.852911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						126676.227911875,
-						7,
-						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						128082.477911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						128316.852911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						128551.227911875,
 						0,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						129019.977911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						129254.352911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						129019.977911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						129254.352911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						129488.727911875,
 						4,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						129488.727911875,
 						3,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						129957.477911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						129957.477911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						130191.852911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						130191.852911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						130426.227911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						130426.227911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						130894.977911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						131129.352911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						130894.977911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						131129.352911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						131363.727911875,
 						7,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						131363.727911875,
 						0,
-						234.375
+						234.375,
+						"",
+						[
+							0
+						]
 					],
 					[
 						127977.009161875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						127848.102911875,
 						0,
-						0
-					],
-					[
-						129019.977911875,
 						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						129254.352911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						129488.727911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						129254.352911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						129488.727911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						129488.727911875,
-						2,
-						0,
-						"Hurt Note"
-					],
-					[
-						129488.727911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						129488.727911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						129254.352911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						129488.727911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						129254.352911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						129019.977911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						130191.852911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						130191.852911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						130191.852911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						130191.852911875,
-						3,
-						0,
-						"Hurt Note"
-					],
-					[
-						130894.977911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						130894.977911875,
-						1,
-						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -3588,309 +6006,450 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						131832.477911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						131932.087286875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132166.462286875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132301.227911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132412.556036875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132535.602911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132652.790411875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132769.977911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133133.259161875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133238.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133473.102911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133707.477911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133941.852911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134176.227911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134287.556036875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134410.602911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134527.790411875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134644.977911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134879.352911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134978.962286875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135113.727911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132066.852911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						131832.477911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						131943.806036875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132066.852911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132301.227911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132394.977911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132178.181036875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132535.602911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132646.931036875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						132769.977911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133121.540411875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133004.352911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133004.352911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133238.727911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133473.102911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133707.477911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						133941.852911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134176.227911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134287.556036875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134410.602911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134521.931036875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134644.977911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134879.352911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						134990.681036875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135113.727911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135230.915411875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135230.915411875,
 						1,
-						0
-					],
-					[
-						131598.102911875,
 						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						131598.102911875,
-						4,
-						0,
-						"Hurt Note"
-					],
-					[
-						132535.602911875,
-						2,
-						0,
-						"Hurt Note"
-					],
-					[
-						132535.602911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						133473.102911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						133473.102911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						133941.852911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						133941.852911875,
-						3,
-						0,
-						"Hurt Note"
-					],
-					[
-						134879.352911875,
-						3,
-						0,
-						"Hurt Note"
-					],
-					[
-						134879.352911875,
-						7,
-						0,
-						"Hurt Note"
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -3898,217 +6457,306 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [
 					[
 						135348.102911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135348.102911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135465.290411875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135465.290411875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135582.477911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135582.477911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135693.806036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135816.852911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						136162.556036875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135687.946661875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						135816.852911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						136156.696661875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						136519.977911875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						136519.977911875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						136883.259161875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						136871.540411875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137223.102911875,
 						6,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137223.102911875,
 						2,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137346.149786875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137457.477911875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137568.806036875,
 						3,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137691.852911875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137814.899786875,
 						1,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137322.712286875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137457.477911875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137562.946661875,
 						7,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137691.852911875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137809.040411875,
 						5,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137053.181036875,
 						0,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137059.040411875,
 						4,
-						0
+						0,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137926.227911875,
 						7,
-						937.5
+						937.5,
+						"",
+						[
+							0
+						]
 					],
 					[
 						137926.227911875,
 						3,
-						937.5
-					],
-					[
-						136051.227911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						136519.977911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						136051.227911875,
-						4,
-						0,
-						"Hurt Note"
-					],
-					[
-						136519.977911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						136988.727911875,
-						3,
-						0,
-						"Hurt Note"
-					],
-					[
-						136988.727911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						138160.602911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						138160.602911875,
-						5,
-						0,
-						"Hurt Note"
+						937.5,
+						"",
+						[
+							0
+						]
 					]
 				],
 				"typeOfSection": 0,
@@ -4116,171 +6764,34 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
-			},
-			{
-				"sectionNotes": [
-					[
-						139801.227911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						139801.227911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						139801.227911875,
-						2,
-						0,
-						"Hurt Note"
-					],
-					[
-						139801.227911875,
-						3,
-						0,
-						"Hurt Note"
-					],
-					[
-						139801.227911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						139801.227911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						139801.227911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						139801.227911875,
-						4,
-						0,
-						"Hurt Note"
-					],
-					[
-						141676.227911875,
-						3,
-						0,
-						"Hurt Note"
-					],
-					[
-						141676.227911875,
-						2,
-						0,
-						"Hurt Note"
-					],
-					[
-						141676.227911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						141676.227911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						141676.227911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						141676.227911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						141676.227911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						141676.227911875,
-						4,
-						0,
-						"Hurt Note"
-					]
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
 				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
+			},
+			{
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
-			},
-			{
-				"sectionNotes": [
-					[
-						143551.227911875,
-						4,
-						0,
-						"Hurt Note"
-					],
-					[
-						143551.227911875,
-						5,
-						0,
-						"Hurt Note"
-					],
-					[
-						143551.227911875,
-						6,
-						0,
-						"Hurt Note"
-					],
-					[
-						143551.227911875,
-						7,
-						0,
-						"Hurt Note"
-					],
-					[
-						143551.227911875,
-						0,
-						0,
-						"Hurt Note"
-					],
-					[
-						143551.227911875,
-						1,
-						0,
-						"Hurt Note"
-					],
-					[
-						143551.227911875,
-						2,
-						0,
-						"Hurt Note"
-					],
-					[
-						143551.227911875,
-						3,
-						0,
-						"Hurt Note"
-					]
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 0
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4289,7 +6800,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4298,7 +6818,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4307,7 +6836,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4316,7 +6854,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4325,7 +6872,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4334,7 +6890,34 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4343,7 +6926,16 @@
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4352,7 +6944,16 @@
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4361,7 +6962,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4370,7 +6980,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4379,7 +6998,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4388,7 +7016,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4397,7 +7034,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4406,7 +7052,16 @@
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4415,7 +7070,16 @@
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4424,7 +7088,16 @@
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4433,7 +7106,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4442,7 +7124,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4451,7 +7142,16 @@
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4460,7 +7160,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4469,7 +7178,16 @@
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4478,7 +7196,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4487,7 +7214,16 @@
 				"altAnim": false,
 				"bpm": 0,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4496,7 +7232,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 0
+				"bpm": 0,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4505,7 +7250,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4514,7 +7268,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4523,7 +7286,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4532,7 +7304,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4541,7 +7322,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4550,7 +7340,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4559,7 +7358,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4568,7 +7376,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4577,7 +7394,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4586,7 +7412,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4595,7 +7430,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4604,7 +7448,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4613,7 +7466,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4622,7 +7484,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4631,7 +7502,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4640,7 +7520,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4649,7 +7538,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4658,7 +7556,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4667,7 +7574,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4676,7 +7592,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4685,7 +7610,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4694,7 +7628,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4703,7 +7646,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4712,7 +7664,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4721,7 +7682,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4730,7 +7700,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4739,7 +7718,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4748,7 +7736,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4757,7 +7754,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4766,7 +7772,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4775,7 +7790,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4784,7 +7808,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4793,7 +7826,16 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"lengthInSteps": 16,
@@ -4802,7 +7844,16 @@
 				"altAnim": false,
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"gfSection": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4812,7 +7863,15 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"sectionNotes": [],
@@ -4822,7 +7881,15 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 120
+				"bpm": 120,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"gfSection": false,
@@ -4832,7 +7899,15 @@
 				"sectionNotes": [],
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"gfSection": false,
@@ -4842,7 +7917,15 @@
 				"sectionNotes": [],
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"gfSection": false,
@@ -4852,7 +7935,15 @@
 				"sectionNotes": [],
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"gfSection": false,
@@ -4862,7 +7953,15 @@
 				"sectionNotes": [],
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			},
 			{
 				"gfSection": false,
@@ -4872,7 +7971,32 @@
 				"sectionNotes": [],
 				"bpm": 120,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 120,
+				"changeBPM": false,
+				"timeSignature": [
+					4,
+					4
+				],
+				"changeSignature": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"altAnim": false,
+				"changeKeys": false,
+				"playerKeys": 4,
+				"opponentKeys": 4
 			}
 		],
 		"gfVersion": "gf",
@@ -4904,6 +8028,14 @@
 		"needsVoices": true,
 		"noteStyle": "normal",
 		"speed": 2.3,
-		"bpm": 120
+		"bpm": 120,
+		"playerKeyAmount": 4,
+		"opponentKeyAmount": 4,
+		"timeSignature": [
+			4,
+			4
+		],
+		"uiSkin": "",
+		"uiSkinOpponent": ""
 	}
 }

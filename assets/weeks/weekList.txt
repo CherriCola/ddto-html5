@@ -3,3 +3,4 @@ doki1x2
 doki3x4
 doki5
 doki6
+doki7
