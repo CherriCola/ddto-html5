@@ -1,8 +1,26 @@
 {
 	"songs": [
-		]
-			"deep-poems",
-			"monika-real",
+		[
+			"stagnant",
+			"sayorisad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"markov",
+			"yuri-closet",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"home",
+			"glitchnatsuki",
 			[
 				146,
 				113,
@@ -13,20 +31,20 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"difficulties": "NORMAL",
+	"difficulties": "hard",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Your New Week",
-	"weekName": "Custom Week",
+	"storyName": "Bad Ending",
+	"weekName": "Bad Ending",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }
