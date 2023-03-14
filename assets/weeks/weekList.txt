@@ -5,4 +5,5 @@ doki5
 doki6
 doki7
 1-week-pixel
-2-week-plus
+2-week-pixel-rest
+3-week-plus
