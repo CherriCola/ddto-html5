@@ -4,3 +4,5 @@ doki3x4
 doki5
 doki6
 doki7
+1-week-pixel
+2-week-plus

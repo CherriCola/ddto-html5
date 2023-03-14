@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						"Sayori Speakers refused to work."
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						""
+					]
+				]
+			]
+		]
+	}
+}

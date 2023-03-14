@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				65507.6923076923,
+				[
+					[
+						"Change Character",
+						"BF",
+						"ghost-sketch"
+					]
+				]
+			],
+			[
+				108707.692307692,
+				[
+					[
+						"Change Character",
+						"BF",
+						"ghost"
+					]
+				]
+			]
+		]
+	}
+}

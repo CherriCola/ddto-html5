@@ -1,0 +1,149 @@
+{
+	"storyName": "DDTO+",
+	"difficulties": "normal",
+	"hideFreeplay": true,
+	"weekBackground": "doki",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Hot Air Balloon",
+			"natsuki",
+			[
+				149,
+				224,
+				250
+			]
+		],
+		[
+			"Shrinking Violet",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"Joyride",
+			"sayori",
+			[
+				252,
+				149,
+				211
+			]
+		],
+		[
+			"Our Harmony",
+			"our-harmony",
+			[
+				255,
+				184,
+				227
+			]
+		],
+		[
+			"Neet",
+			"protag",
+			[
+				175,
+				83,
+				66
+			]
+		],
+		[
+			"titular (mc mix)",
+			"protag",
+			[
+				175,
+				83,
+				66
+			]
+		],
+		[
+			"You and Me",
+			"protag",
+			[
+				175,
+				83,
+				66
+			]
+		],
+		[
+			"Love N Funkin",
+			"love",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Constricted",
+			"zipper",
+			[
+				165,
+				31,
+				62
+			]
+		],
+		[
+			"Catfight",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"Wilted",
+			"senpai",
+			[
+				255,
+				170,
+				111
+			]
+		],
+		[
+			"Libitina",
+			"libitina",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Drinks on Me",
+			"jill",
+			[
+				67,
+				30,
+				104
+			]
+		],
+		[
+			"Takeover Medley",
+			"love",
+			[
+				255,
+				184,
+				227
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"moni_story",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

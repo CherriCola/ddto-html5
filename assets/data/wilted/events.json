@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				87857.1428571429,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"senpai-nonpixel"
+					]
+				]
+			],
+			[
+				87858.142857143,
+				[
+					[
+						"Change Character",
+						"Bf",
+						"monika-pixelnew"
+					]
+				]
+			],
+			[
+				124553.571428572,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"playablesenpai"
+					]
+				]
+			],
+			[
+				124554.571428572,
+				[
+					[
+						"Change Character",
+						"Bf",
+						"playablemonika"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "DDTO+",
+	"difficulties": "normal",
+	"hideFreeplay": true,
+	"weekBackground": "doki",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"dual demise v2",
+			"dual-demise",
+			[
+				201,
+				206,
+				255
+			]
+		],
+		[
+			"glitcher (monika mix) v2",
+			"monika-real",
+			[
+				140,
+				212,
+				101
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"moni_story",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

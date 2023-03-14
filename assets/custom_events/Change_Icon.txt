@@ -1,0 +1,9 @@
+Changes icon to a new icon!
+Value 1: Which character (dad or bf), icon name.
+Value 2: "hex" or "rgb" code for health bar color.
+
+Also for "Icon name" you can surround with " to just
+get it from characters instead by putting their lua tag!
+Example -
+    Value 1: bf, gf
+    Value 2: rgb, 165,0,77 (if via tag, v2 does nothing)
